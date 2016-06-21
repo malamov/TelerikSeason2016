@@ -1,2 +1,1 @@
-# Telerik Season 
-## 2016
+# Telerik Season 2016 Homeworks
