@@ -1,1 +1,1 @@
-# Telerik Season 2016 Homeworks
+# Repository for Homeworks and projects @ Telerik Academy
